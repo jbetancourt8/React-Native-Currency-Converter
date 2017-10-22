@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Currency Converter",
+    "slug": "Converts currencies using fixer.io",
+    "sdkVersion": "21.0.0",
+    "orientation": "portrait",
+    "privacy": "unlisted"
+  }
+}
